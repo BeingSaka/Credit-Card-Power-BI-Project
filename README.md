@@ -30,3 +30,7 @@ This project features a Power BI dashboard that analyzes credit card transaction
   * What are the most common types of fraudulent transactions?
   * What are the key indicators of potential fraud?
   * Dashboard Interaction - <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/Credit_Card_Dashboard.pbix" > Credit-Card-Power-BI-Project</a>
+
+**Dashboard**
+![CoverPage](https://github.com/user-attachments/assets/5a43751f-f0ce-4395-9aae-b78ccc7948f3)
+
