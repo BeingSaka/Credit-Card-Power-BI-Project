@@ -9,10 +9,13 @@ This project features a Power BI dashboard that analyzes credit card transaction
 * **Credit Risk Assessment:** Assess credit risk for individual customers.
 
 **Key Features:**
-- <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/customer.csv" > Customer Dataset</a>
+
 * **Interactive Visualizations:** Explore data through interactive charts, graphs, and maps.
 * **Data-Driven Insights:** Gain valuable insights into customer behavior, spending patterns, and market trends.
 * **Improved Decision Making:** Support informed business decisions related to customer acquisition, retention, and risk management.
 
 **To Use:**
+- <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/customer.csv" > Customer Dataset</a>
+- <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/customer.csv](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/cust_add.csv)" > Customer Address</a>
+- <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/customer.csv](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/cust_add.csv](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/credit_card.csv))" > Customer Address</a>
 
