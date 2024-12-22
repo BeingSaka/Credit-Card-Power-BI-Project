@@ -29,3 +29,4 @@ This project features a Power BI dashboard that analyzes credit card transaction
   * What is the frequency of late payments and their impact on credit scores?
   * What are the most common types of fraudulent transactions?
   * What are the key indicators of potential fraud?
+  * Dashboard Interaction - <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/Credit_Card_Dashboard.pbix" > Customer Address</a>
