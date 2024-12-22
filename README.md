@@ -20,3 +20,12 @@ This project features a Power BI dashboard that analyzes credit card transaction
 - <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/customer.csv](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/cust_add.csv](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/credit_card.csv))" > Customer Address</a>
 - <a href ="https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/customer.csv](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/cust_add.csv](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/credit_card.csv))](https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/cc_add.csv)" > Customer Address</a>
 
+**Question KPI's**
+*What is the total transaction volume and amount over time?
+*How does transaction volume and amount vary by customer segment (age, gender, location)?
+*What are the top spending categories for different customer segments?
+*What is the customer churn rate and what factors contribute to churn?
+*What is the average credit utilization rate for different customer segments?
+*What is the frequency of late payments and their impact on credit scores?
+*What are the most common types of fraudulent transactions?
+What are the key indicators of potential fraud?
