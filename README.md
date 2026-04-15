@@ -1,6 +1,6 @@
 💳 Credit Card Financial Analytics Dashboard (2026)
 
-GitHub Repository: BeingSaka/Credit-Card-Power-BI-Project
+
 
 Core Objective: Transforming 4 fragmented financial datasets into a Proactive Risk Management Tool using Advanced DAX and Multi-table Modeling.
 
